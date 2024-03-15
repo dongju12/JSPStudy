@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=".metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/smhrd"/>
+	<classpathentry kind="src" path="CookieSession/src/main/java"/>
+	<classpathentry kind="src" path="MavenSample02/src/main/java"/>
+	<classpathentry kind="src" path="MavenSample03_FrontController/src/main/java"/>
+	<classpathentry kind="src" path="MavenSample04_Final/src/main/java"/>
+	<classpathentry kind="src" path="Servlet01/src/main/java"/>
+	<classpathentry kind="src" path="Servlet02/src/main/java"/>
+	<classpathentry kind="src" path="apache-tomcat-9.0.86/webapps/docs/appdev/sample/src/mypackage"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="src" path="apache-tomcat-9.0.86/webapps/examples/WEB-INF/classes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
